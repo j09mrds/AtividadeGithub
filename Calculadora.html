@@ -1,4 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora Rosa</title>
+    <style>
+        body {
+            background-color: #ffe6f2;
+            text-align: center;
+            font-family: 'Arial', sans-serif;
+            color: #333;
+        }
 
+        h2 {
+            color: #ff66b2;
+        }
+
+        label {
+            display: block;
+            margin-top: 10px;
+            color: #ff66b2;
+        }
+
+        input, select, button {
+            padding: 5px;
+            margin-top: 5px;
+            border: 1px solid #ff66b2;
+            border-radius: 5px;
+        }
+
+        button {
+            background-color: #ff66b2;
+            color: white;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #e64d8e;
+        }
+
+        p {
+            margin-top: 10px;
+            font-size: 18px;
+            color: #ff66b2;
+        }
+
+        table {
+            margin: 20px auto;
+            border-collapse: collapse;
+            width: 80%;
+        }
+
+        th, td {
+            border: 1px solid #ff66b2;
+            padding: 8px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #ff66b2;
+            color: white;
+        }
+    </style>
+</head>
+<body>
 
     <h2>Calculadora</h2>
 
@@ -39,6 +104,8 @@
             switch (operador) {
                 case "+":
                     resultado = num1 + num2;
+                    break;}
+            case "*":
+                    resultado = num1 * num2;
                     break;
-            }  
     </script>
