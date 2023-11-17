@@ -7,7 +7,7 @@ INTEGRANTES
 
 
 
-  ##Atividade 1
+  #Atividade 1
   **A atividade em questão, produzida pelas alunas do 4° ano de informática matutino do IFRN Campus Parelhas, consiste em um software capaz de operar as quatro operações básicas da matemática de acordo com o que o usuário quer realizar. De tal modo, cada integrante do grupo programou uma operação, sendo:
   
   *Tainá Brito- Multiplicação
