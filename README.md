@@ -13,4 +13,4 @@ A atividade em questão, produzida pelas alunas do 4° ano de informática matut
  * Raquel Gabrielly- Divisão
  * Maria Clara- Subtração
 
- O software foi testado e tem bom funcionamento, de forma que, executa com êxito todas as operações exigidas pelo professor de PDS, Andouglas Júnior. 
+ Com a linguagem de JavaScript para o back-end e html para o front-end, o software foi testado e tem bom funcionamento, de forma que, executa com êxito todas as operações exigidas pelo professor de PDS, professor Andouglas Júnior. 
